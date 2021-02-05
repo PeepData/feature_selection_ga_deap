@@ -42,4 +42,4 @@ make start
 ```
 
 ## Contacto
-Cualquier comentario o dudas contactame a peepdata@gmail.com.
+Cualquier comentario o dudas contactame a thepeepdata@gmail.com.
